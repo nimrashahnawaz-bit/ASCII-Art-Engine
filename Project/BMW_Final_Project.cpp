@@ -12,7 +12,7 @@ int feedbackCount = 4;
 
 // Arrays
 string nameArray[total] = {"BMW i3", "BMW X2", "BMW XZ", "BMW X3", "BMW X5", "BMW X7", "BMW M3", "BMW M4", "BMW iX", "BMW i7"};
-int priceArray[total] = {42000, 54000, 93000, 46000, 65000, 77000, 72000, 74000, 52000, 87000};
+int priceArray[total] = {42000, 54000, 93000, 46000, 65000, 77000, 72000, 74000, 53000, 87000};
 int stockArray[total] = {4, 5, 4, 6, 7, 2, 5, 6, 3, 1};
 string customers[total] = {"Rija Ijaz", "Tashifa   ", "Hamza Ali", "Hira Malik"};
 string soldCars[total] = {"BMW M3", "BMW i7", "BMW X5", "BMW M4"};
